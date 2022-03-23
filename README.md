@@ -13,9 +13,9 @@ All data (`CRHD-3K`) can be downloaded below.
 
 | Path   |  Size   |  Files  |    Format   | Description                   |
 | :----- | :---:   |   ---:  |    :---:    | :-------                      |
-| CRHD-3K          | 18.0 GB |   1  | ZIP  |
-| &boxvr;&nbsp;src | 9.0 GB  | 3022 | JPG  | Source images                 |
-| &boxvr;&nbsp;gt  | 9.4 GB  | 3022 | JPG  | Target images                 |
+| CRHD-3K          |         |      |      |
+| &boxvr;&nbsp;CRHD-3K_src | 9.0 GB  | 3022 | JPG (ZIP package)  | Source images                 |
+| &boxvr;&nbsp;[CRHD-3K_gt](https://drive.google.com/file/d/11fvSuR4qCK9gppu3i9G1qG1zWRk0RM_x/view?usp=sharing)  | 9.1 GB  | 3022 | JPG (ZIP package)  | Target images                 |
 
 
 ## Agreement
