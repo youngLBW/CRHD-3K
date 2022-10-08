@@ -5,6 +5,13 @@ High-definition Cloth Retouching (CRHD-3K) is a high-quality dataset for cloth r
 > Biwen Lei, Xiefan Guo, Hongyu Yang, Miaomiao Cui, Xuansong Xie, Di Huang<br>
 > In CVPR 2022<br>
 
+[DAMO Academy, Alibaba Group](https://damo.alibaba.com), Hangzhou, China
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lei_ABPN_Adaptive_Blend_Pyramid_Network_for_Real-Time_Local_Retouching_of_CVPR_2022_paper.pdf) | [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Lei_ABPN_Adaptive_Blend_CVPR_2022_supplemental.pdf)
+
+We will release the code of ABPN soon, before that, if you are interested in skin retouching, 
+you may refer to [modelscope](https://www.modelscope.cn/models/damo/cv_unet_skin-retouching/summary), in which we released the models of portrait skin retouching for  application.  In one of the models, we leveraged the concept of blend layers in ABPN and achieved good results.
+
 ## Samples
 ![sample_images](samples/sample.png)
 
